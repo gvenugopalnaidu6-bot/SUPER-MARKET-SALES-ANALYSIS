@@ -19,7 +19,7 @@ Analyzed 1000+ supermarket transactions to identify top-selling products, profit
 - `SALES DASHBOARD FINAL.pbix` - Power BI Dashboard File
 
 ## 📈 Dashboard Preview
-*(Dashboard screenshot ni ikkada upload cheddam tarvata)*
+![Dashboard](Screenshot%202026-09-26%20105936.png)
 
 ## 👤 Author
 **G. Venu Gopal Naidu** - Aspiring Data Analyst
